@@ -21,7 +21,7 @@ pixi run execute
 ### clean builded file
 
 ```shell
-pixi 
+pixi run clean
 ```
 
 ## more info
