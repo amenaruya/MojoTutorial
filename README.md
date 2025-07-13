@@ -26,4 +26,4 @@ pixi run clean
 
 ## more info
 
-...
+Zenn: <https://zenn.dev/amenaruya/articles/33723fd5465e71>
